@@ -2,7 +2,7 @@
 layout: post
 title: Guía reclutamiento
 subtitle: Contratar siendo una startup es muy difícil.
-categories: jobs
+categories: guide,recruiting
 ---
 
 * TOC
