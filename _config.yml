@@ -16,7 +16,7 @@
 title: Platanus Ventures
 email: ventures@platan.us
 description: >- # this means to ignore newlines until "baseurl:"
-  CMS de Platanus.
+  Base de conocimiento público de Platanus Ventures.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -41,7 +41,12 @@ markdown: kramdown
 # social links
 twitter_username: _platanus
 github_username:  platanus
-rss: rss
+
+feed:
+  collections:
+    - posts
+    - guides
+
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
