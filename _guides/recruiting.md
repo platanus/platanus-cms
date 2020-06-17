@@ -355,7 +355,3 @@ Para eso, si estás en Platanus Ventures puedes acceder a:
 - Participar de entrevistas de Platanus (o Fintual, o Buda.com) (coordinar con Andrés Matte)
 - Publicación en comunidades/RRSS con el apoyo de las empresas de la red (ver el canal #promote)
 - Publicar ofertas en "Trabaja en una startup" de Platanus Ventures (coming soon)
-
-[Platanus](https://platan.us/)
-
-[Programa de 6 meses para iniciar tu startup](http://ventures.platan.us/)
