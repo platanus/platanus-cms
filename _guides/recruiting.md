@@ -125,7 +125,7 @@ Algunos ejemplos:
 
 ### Fundadores más viejos
 
-Como perteneces a la red PV, entonces puedes pedirle ayuda a los fundadores más viejos.
+Si perteneces a la red PV, entonces puedes pedirle ayuda a los fundadores más viejos.
 
 La gracia es que estos personajes seguramente ya han logrado cierto grado de posicionamiento en el mundo startup, y tienen algún tipo de llegada con los devs.
 
@@ -199,19 +199,19 @@ También puede ser buena idea incorporar el rango de sueldo y si entregan stock 
 
 El postulante debe saber cómo es el proceso antes de hacer click en "postular".
 
-En estas cosas, la incertidumbre no es buena. Si el candidato sabe lo que se viene, se puede preparar más adecuadamente. Además, puedes hacer las primeras entrevistas más cortas. No tienes que explicarle desde cero lo que se viene.
+En estas cosas la incertidumbre no es buena. Si el candidato sabe lo que se viene, se puede preparar más adecuadamente. Además, no tienes que explicarle desde cero cómo es el proceso. Puedes hacer las primeras entrevistas más cortas.
 
-Saber en qué etapa voy me da una sensación de progreso. Y si sabes cuánto llevas, es menos probable que abandones el proceso en el camino.
+Saber en qué etapa voy me da una sensación de progreso. Y si sabes cuánto llevas, es menos probable que abandones en el camino.
 
 ## Dónde publicar
 
-Nuestro lugar preferido para publicar nuestros anuncios son los grupos de universidad.
+Nuestro lugar preferido para publicar nuestros anuncios son los grupos de universidades.
 
 Grupos de Facebook de los departamentos de computación o grupos de Telegram.
 
 Todo lo que apunte a jóvenes con mucho potencial y ganas de aprender.
 
-También puede ser en GetOnBoard. Ahí recibirás un mayor volumen de postulaciones, pero el público objetivo es distinto.
+También puede ser en Getonbrd. Ahí recibirás un mayor volumen de postulaciones, pero el público objetivo es distinto.
 
 ### Olvida las empresas de reclutamiento
 
@@ -269,7 +269,7 @@ La cultura la hacen las personas. Por lo tanto, **es su responsabilidad entrevis
 
 No puede existir un postulante que no pase por el CEO.
 
-Un buen momento para que el CEO conozca al candidato es la primera primera entrevista. La personal.
+Un buen momento para que el CEO conozca al candidato es en la primera entrevista. La personal.
 
 ## Ejemplo de proceso
 
@@ -289,7 +289,9 @@ Un buen momento para que el CEO conozca al candidato es la primera primera entre
 
 Quizás quieres filtrar las postulaciones antes de cualquier entrevista.
 
-En esos casos puede ser útil hacer un pequeño ejercicio que suban a algún lado
+En esos casos puede ser útil hacer un pequeño ejercicio que suban a algún formulario.
+
+Si te gusta lo que ves, entonces lo contactas para la primera entrevista.
 
 ### Primera entrevista: personal y corta
 
@@ -303,7 +305,7 @@ No debiera durar más de 20 minutos. A menos que te den ganas de seguir conversa
 
 Lo más importante es que: **si te genera algún tipo de ruido, entonces es un NO.**
 
-Hacerle caso a la guata en este proceso es clave. Hay veces que uno no sabe bien por qué no está convencido del candidato. En esos casos es mejor no arriesgarse. Más allá de no tener razones, tu mente captó algo que le hizo ruido. Hay que hacerle caso.
+Hacerle caso a la guata en este proceso es clave. Hay veces que uno no sabe bien por qué no está convencido del candidato. En esos casos es mejor no arriesgarse. Más allá de no tener razones, tu mente captó algo que le hizo ruido. No hay que ignorarlo.
 
 Si es que es alguien que te entusiasma, alguien a quién crees que puedes admirar o si crees que podría rendir super bien, entonces next step.
 
@@ -315,7 +317,7 @@ Las entrevistas técnicas son super importantes. Acá tienes que determinar si l
 
 Si es un postulante más viejo, entonces la exigencia debiera ser más alta.
 
-Si es un universitario, entonces se puede hacer una entrevista un poco distinta.
+Si es un universitario, entonces se puede hacer una entrevista que mida el potencial.
 
 ### Entrevista final grupal
 
