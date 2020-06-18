@@ -10,16 +10,16 @@ subtitle: El material que hemos ido recopilando a lo largo de los años. Lo
 |How to plan an MVP                                  |https://www.youtube.com/watch?v=1hHMwLxN6EM&t=1228s|Antes de un proyecto o startup con una idea que quiere saber qué desarrollar primero y cómo|
 |How to Launch (again and again)                     |https://www.youtube.com/watch?v=3xU050kMbHM|                              |
 |How to Succeed with a Startup                       |https://www.youtube.com/watch?v=0lJKucu6HJc|Muy bueno para founders. Overview de lo que se necesita para que una startup sea exitosa|
-|How to find Product Market Fit (superhuman)         |https://firstround.com/review/how-superhuman-built-an-engine-to-find-product-market-fit/|Indispensable. Te da un proceso a través del cuál puedes saber si estás llegando al PMF|
+|How to find Product Market Fit (superhuman)         |https://bit.ly/2YHZWt6|Indispensable. Te da un proceso a través del cuál puedes saber si estás llegando al PMF|
 |Minimum viable producto process                     |https://blog.ycombinator.com/minimum-viable-product-process/|Para sacarse de la idea de que tenemos que desarrollar un MVP en 6 meses, probar, e iterar para probar en 6 meses más. Iterar rápido!|
 |Ship early and often                                |https://blog.ycombinator.com/tips-ship-early-and-often/|Desarrollar para la "versión 0" de tu producto, no para la "versión 1". Útil para desarrollar en startups|
-|If your product is great, it doesn't need to be good|https://paulbuchheit.blogspot.com/2010/02/if-your-product-is-great-it-doesnt-need.html|No necesitas tener un producto perfecto al principio. Pick three key attributes or features, get those things very, very right, and then forget about everything else|
+|If your product is great, it doesn't need to be good|https://bit.ly/2AJAL1e|No necesitas tener un producto perfecto al principio. Pick three key attributes or features, get those things very, very right, and then forget about everything else|
 |Do Thinks that Don't Scale                          |http://paulgraham.com/ds.html |Indispensable. Haz cosas que no escalen al principio de la startup.|
 |Startup Playbook                                    |https://playbook.samaltman.com/|Gran resumen de los consejos que da YC.|
 |Building Product - Michael Siebel                   |https://www.youtube.com/watch?v=C27RVio2rOs&feature=youtu.be|Una serie de tips sobre cómo construir un producto al inicio de una startup.|
 |How to Talk to Users                                |https://www.youtube.com/watch?v=MT4Ig2uqjTc|Tips y approach para hablar con usuarios.|
 |Sprint                                              |https://www.amazon.com/Sprint-Solve-Problems-Test-Ideas/dp/1442397683|Libro que explica una metodología para lograr tener un prototipo para un problema difícil o sin solución evidente en 5 días|
-|Hooked                                              |https://www.amazon.com/Hooked-How-Build-Habit-Forming-Products/dp/1591847788|How to Build Habit-Forming Products. Suena un poco malvado, pero es muy buen libro para entender por qué son exitosos algunos productos de uso diario/semanal.|
+|Hooked                                              |https://amzn.to/3hHBFwa|How to Build Habit-Forming Products. Suena un poco malvado, pero es muy buen libro para entender por qué son exitosos algunos productos de uso diario/semanal.|
 |Series A guide                                      |https://www.ycombinator.com/resources/series-a-guide|Bueno para recomendarselo a founders.|
 |Startup pricing 101                                 |https://youtu.be/jwXlo9gy_k4  |¿Cuánto cobrar? Este video da algunas respuestas.|
 |Growth Marketing Guide                              |https://www.julian.com/guide/growth/intro|Guía de growth marketing de Julian Shaphiro|
@@ -29,4 +29,4 @@ subtitle: El material que hemos ido recopilando a lo largo de los años. Lo
 |Managing Startup Finances                           |https://www.youtube.com/watch?v=LBC16jhiwak&feature=emb_title|Manejar las finanzas de tu startup|
 |How to Sell                                         |https://www.youtube.com/watch?v=xZi4kTJG-LE|Cómo vender.                  |
 |The Equity Equation                                 |http://paulgraham.com/equity.html|Paul Graham explica la regla del 1/(1-n)|
-|A Entrepreneur's Guide To Employee Equity           |https://go.gusto.com/rs/110-WOX-868/images/An%20Entrepreneur%E2%80%99s%20Guide%20to%20Employee%20Equity.pdf|¿No sabes cómo es el esquema para dar equity? Acá tendrás casi todo lo que necesitas|
+|A Entrepreneur's Guide To Employee Equity           |https://bit.ly/2N9Gq3e|¿No sabes cómo es el esquema para dar equity? Acá tendrás casi todo lo que necesitas|
