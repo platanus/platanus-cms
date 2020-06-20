@@ -1,0 +1,154 @@
+---
+layout: post
+title: Antes de la startup
+subtitle: Traducción de ensayo "Before the startup" de Paul Graham.
+---
+*(Este ensayo se deriva de una sesión en la clase "How to start a startup" de Sam Altman en Stanford. Está destinada a estudiantes universitarios, pero gran parte aplica a posibles fundadores de otras edades).*
+
+Una de las ventajas de tener hijos es que cuando tienes que dar consejos, puedes preguntarte "¿qué les diría a mis propios hijos?" Mis hijos son pequeños, pero puedo imaginar qué les diría sobre startups si estuvieran en la universidad, y eso es lo que te voy a contar.
+
+Las startups son muy contradictorias. No estoy seguro de por qué. Tal vez sea solo porque el conocimiento sobre ellas aún no ha permeado nuestra cultura. Pero sea cual sea el motivo, iniciar una startup es una tarea en la que no siempre puedes confiar en tus instintos.
+
+Es como esquiar. Cuando intentas esquiar por primera vez y quieres reducir la velocidad, tu instinto es recostarte. Pero si te recuestas en los esquís, volarás cuesta abajo sin control. Entonces, parte de aprender a esquiar es aprender a suprimir ese impulso. Eventualmente obtienes nuevos hábitos, pero al principio se requiere un esfuerzo consciente. Al principio hay una lista de cosas que estás tratando de recordar al comenzar a bajar la colina.
+
+Las startups son tan poco naturales como el esquí, por lo que hay una lista similar para las startups. Aquí te voy a dar la primera parte: las cosas que debes recordar si quieres prepararte para iniciar una startup.
+
+## Contraintuitivo
+
+El primer elemento es el hecho que ya mencioné: que las startups son tan extrañas que si confías en tus instintos, cometerás muchos errores. Si no sabes nada más que esto, al menos puede hacer una pausa antes de cometerlos.
+
+Cuando estaba liderando Y Combinator, bromeaba diciendo que nuestra función era decirle a los fundadores cosas que ignorarían. Realmente es verdad. Generación tras generación, los socios de YC advierten a los fundadores sobre los errores que están a punto de cometer, y los fundadores los ignoran, y luego regresan un año después y dicen "ojalá hubiéramos escuchado".
+
+¿Por qué los fundadores ignoran el consejo de los socios? Bueno, eso es lo que pasa con las ideas contraintuitivas: contradicen tus intuiciones. Parecen equivocadas. Entonces, por supuesto, tu primer impulso es ignorarlas. Y, de hecho, esta divertida situación no es simplemente la maldición de Y Combinator, sino parte de su razón de ser. Si los instintos de los fundadores ya les dieran las respuestas correctas, no nos necesitarían. Solo necesitas que otras personas te den consejos que te sorprendan. Es por eso que hay muchos instructores de esquí y no muchos instructores de running. \[ 1 ]
+
+Sin embargo, puedes confiar en tus instintos sobre las personas. Y, de hecho, uno de los errores más comunes que cometen los fundadores jóvenes es no hacerlo lo suficiente. Se involucran con personas que parecen impresionantes, pero sobre las cuales sienten algunas dudas personalmente. Más tarde, cuando las cosas explotan, dicen: "Sabía que había algo extraño en él, pero lo ignoré porque parecía tan impresionante".
+
+Si está pensando en involucrarse con alguien, como cofundador, empleado, inversor o adquirente, y tienes dudas sobre ellos, confía en tu instinto. Si alguien te parece falso o un imbécil, no los ignores.
+
+Este es un caso en el que vale la pena ser autocomplaciente. Trabaja con personas que realmente te gustan y que has conocido lo suficiente como para estar seguro.
+
+## Pericia
+
+El segundo punto contradictorio es que no es tan importante saber mucho sobre las startups. La forma de tener éxito en una startup no es ser un experto en startups, sino ser un experto en sus usuarios y el problema que está resolviendo para ellos. Mark Zuckerberg no tuvo éxito porque era un experto en startups. Tuvo éxito a pesar de ser un novato completo en las startups, porque entendía muy bien a sus usuarios.
+
+Si no sabes nada sobre, por ejemplo, cómo levantar una ronda de inversión, no te sientas mal. Ese tipo de cosas se pueden aprender cuando lo necesites y olvidarse después de haberlo hecho.
+
+De hecho, me preocupa que no sea simplemente innecesario aprender con gran detalle sobre la mecánica de las nuevas empresas, sino que posiblemente sea algo peligroso. Si conociera a un estudiante universitario que supiera todo sobre notas convertibles y acuerdos de empleados y (Dios no lo quiera) acciones de clase FF, no pensaría "aquí hay alguien que está muy por delante de sus compañeros". Activaría las alarmas. Porque otro de los errores característicos de los jóvenes fundadores es seguir los movimientos de iniciar una startup. Se inventan una idea que suena plausible, recaudan dinero con una buena valoración, alquilan una oficina genial, contratan a un montón de personas. Desde el exterior, eso parece lo que hacen las startups. Pero el siguiente paso después de alquilar una oficina genial y contratar a un grupo de personas es: gradualmente darse cuenta de lo completamente jodidos que están, porque al imitar todas las formas externas de una startup, han descuidado lo único realmente esencial: hacer algo que la gente quiera.
+
+## Juego
+
+Vimos que esto sucedía tan a menudo que inventamos un nombre para ello: jugar a ser adulto. Finalmente me di cuenta de por qué estaba sucediendo. La razón por la que los jóvenes fundadores siguen los movimientos de iniciar una startup es porque para eso han sido entrenados durante toda su vida. Piensa en lo que tienes que hacer para ingresar a la universidad, por ejemplo. Actividades extracurriculares: listo. Incluso en las clases universitarias, la mayor parte del trabajo es muy artificial.
+
+No estoy atacando el sistema educativo por ser así. Siempre habrá una cierta cantidad de falsedad en el trabajo que haces cuando se te enseña algo, y si mide su desempeño, es inevitable que las personas exploten esto hasta el punto en que gran parte de lo que se está midiendo son artefactos de la falsedad.
+
+Confieso que yo mismo lo hice en la universidad. Descubrí que en muchas clases solo podría haber 20 o 30 conceptos que tenían la forma correcta para que fueran buenas preguntas de examen. La forma en que estudié para los exámenes en estas clases no fue (excepto por cierto) dominar el material enseñado en la clase, sino hacer una lista de posibles preguntas del examen y resolver las respuestas por adelantado. Cuando llegué al examen, lo que sentía era curiosidad sobre cuáles de mis preguntas aparecerían en el examen. Fue como un juego.
+
+No es sorprendente que después de haber sido entrenado durante toda tu vida para jugar tales juegos, el primer impulso de los jóvenes fundadores para comenzar una startup es tratar de descubrir los trucos para ganar en este nuevo juego. Dado que la recaudación de fondos parece ser la medida del éxito para las nuevas empresas (otro error clásico novato), siempre quieren saber cuáles son los trucos para convencer a los inversores. Les decimos que la mejor manera de convencer a los inversores es hacer una startup que realmente esté funcionando bien, lo que significa un crecimiento rápido , y luego simplemente decirles a los inversores sobre esto. Luego quieren saber cuáles son los trucos para crecer rápidamente. Y tenemos que decirles que la mejor manera de hacerlo es simplemente hacer algo que la gente quiera.
+
+Muchas de las conversaciones que los socios de YC tienen con los fundadores jóvenes comienzan cuando el fundador pregunta "¿Cómo podemos...?" Y el socio responde "Solo ..."
+
+¿Por qué los fundadores siempre hacen las cosas tan complicadas? Me di cuenta de que la razón es que están buscando el truco.
+
+Así que esta es la tercera cosa contradictoria para recordar acerca de las startups: comenzar una startup es donde los juegos dejan de funcionar. Engañar al sistema puede continuar funcionando si vas a trabajar para una gran empresa. Dependiendo de cuán rota esté la empresa, puedes tener éxito adulando a las personas adecuadas, dando la impresión de productividad, etc. \[ 2 ] Pero eso no funciona con las startups. No hay un jefe para engañar, solo los usuarios, y lo único que les importa es si su producto hace lo que quieren. Las startups son tan impersonales como la física. Tienes que hacer algo que la gente quiera, y prosperas solo en la medida en que lo haces.
+
+Lo peligroso es que el engaño funciona hasta cierto punto en los inversores. Si eres súper bueno para sonar como si supieras de lo que estás hablando, puedes engañar a los inversores por al menos una y tal vez incluso dos rondas de financiación. Pero no es de tu interés. La compañía está finalmente condenada. Todo lo que estás haciendo es perder tu tiempo.
+
+Así que deja de buscar el truco. Hay trucos en las startups, como en cualquier dominio, pero son un orden de magnitud menos importante que resolver el problema real. Un fundador que no sabe nada sobre recaudación de fondos pero que ha hecho algo que los usuarios adoran tendrá más facilidad para recaudar dinero que uno que conozca todos los trucos del libro pero que tenga un gráfico de uso plano. Y lo que es más importante, el fundador que ha hecho algo que los usuarios aman es el que tendrá éxito después de recaudar el dinero.
+
+Aunque, en cierto sentido, es una mala noticia, ya que estás privado de una de tus armas más poderosas, creo que es emocionante que jugar con el sistema deje de funcionar cuando comienzas una startup. Es emocionante que incluso existan partes del mundo donde ganes haciendo un buen trabajo. Imagínese lo deprimente que sería el mundo si todo fuera como la escuela y las grandes empresas, donde uno tiene que pasar mucho tiempo haciendo cosas de mierda o perder con las personas que lo hacen. \[ 3 ] Me hubiera encantado si me hubiera dado cuenta en la universidad de que había partes del mundo real en las que el engañar al sistema importaba menos que en otras, y algunas en las que apenas importaba. Pero los hay, y esta variación es una de las cosas más importantes a considerar cuando estás pensando en tu futuro. ¿Cómo "ganas" en cada tipo de trabajo? ¿Qué cosas te gustaría ganar? \[ 4 ]
+
+## Consumen todo
+
+Eso nos lleva a nuestro cuarto punto contraintuitivo: las startups consumen todo. Si comienzas una startup, se apoderará de tu vida hasta un punto que no puedes imaginar. Y si su startup tiene éxito, se hará cargo de tu vida durante mucho tiempo: al menos durante varios años, tal vez durante una década, tal vez por el resto de tu vida laboral. Entonces, hay un costo de oportunidad real aquí.
+
+Puede parecer que Larry Page tenga una vida envidiable, pero hay aspectos que no son envidiables. Básicamente a los 25 años comenzó a correr lo más rápido que pudo y le debe parecer que no se ha detenido para recuperar el aliento desde entonces. Todos los días sucede una nueva mierda en el imperio de Google con la que solo el CEO puede lidiar, y él, como CEO, tiene que lidiar con eso. Si se va de vacaciones incluso por una semana, se acumula una montón de mierda de toda una semana. Y tiene que soportar esto sin quejarse, en parte porque, como padre de la compañía, nunca puede mostrar miedo o debilidad, y en parte porque los multimillonarios sienten menos simpatía si hablan de tener vidas difíciles. Lo que tiene el extraño efecto secundario de que la dificultad de ser un exitoso fundador de startups está oculta para casi todos, excepto para aquellos que lo han hecho.
+
+Y Combinator ahora ha financiado varias empresas que pueden llamarse grandes éxitos, y en cada caso los fundadores dicen lo mismo. Nunca se vuelve más fácil. La naturaleza de los problemas cambia. Le preocupan los retrasos en la construcción en su oficina de Londres en lugar del aire acondicionado roto en su apartamento tipo estudio. Pero el volumen total de preocupación nunca disminuye; en todo caso, aumenta.
+
+Comenzar una startup exitosa es similar a tener hijos, es como presionar un botón que cambia tu vida irrevocablemente. Y aunque es realmente maravilloso tener hijos, hay muchas cosas que son más fáciles de hacer antes de tenerlos que después. Muchos de los cuales te harán un mejor padre cuando tengas hijos. Y dado que puedes retrasar presionar el botón por un tiempo, la mayoría de las personas en los países ricos lo hacen.
+
+Sin embargo, cuando se trata de nuevas empresas, mucha gente parece pensar que se supone que deben iniciarlas mientras todavía están en la universidad. ¿Estás loco? ¿Y qué piensan las universidades? Se desviven para asegurarse de que sus estudiantes estén bien provistos de anticonceptivos y, sin embargo, están estableciendo programas de emprendimiento e incubadoras de startups constantemente.
+
+Para ser justos, las universidades no tienen otra opción. Muchos nuevos estudiantes están interesados ​​en startups. Se espera que las universidades, al menos de facto, las preparen para sus carreras. Por lo tanto, los estudiantes que desean iniciar nuevas empresas esperan que las universidades puedan enseñarles sobre nuevas empresas. E independiente de si las universidades pueden hacer esto o no, existe cierta presión para que digan que sí pueden hacerlo, para que no pierdan candidatos con otras universidades que lo hacen.
+
+¿Pueden las universidades enseñar a los estudiantes sobre startups? Si y no. Pueden enseñar a los estudiantes acerca de nuevas empresas, pero como expliqué antes, esto no es lo que necesitas saber. Lo que necesitas aprender son las necesidades de tus propios usuarios, y no puedes hacerlo hasta que realmente inicies la startup. \[ 5 ] Entonces, iniciar una startup es intrínsecamente algo que solo puedes aprender realmente al hacerla. Y es imposible hacerlo en la universidad, por la razón que acabo de explicar: las startups se apoderan de tu vida. No puedes comenzar una startup de verdad como estudiante, porque si comienzas una startup de verdad, ya no eres un estudiante. Puede ser nominalmente un estudiante por un tiempo, pero ni siquiera lo serás por mucho tiempo. \[ 6 ]
+
+Dada esta dicotomía, ¿cuál de los dos caminos debes tomar? ¿Ser un verdadero estudiante y no comenzar una startup, o empezar una verdadera startup y no ser un estudiante? Puedo responder eso por ti. No comiences una startup en la universidad. Cómo iniciar una startup es solo un subconjunto de un problema mayor que estás tratando de resolver: cómo tener una buena vida. Y aunque comenzar una startup puede ser parte de una buena vida para muchas personas ambiciosas, la edad de 20 años no es el momento óptimo para hacerlo. Iniciar una startup es como una búsqueda de profundidad brutalmente rápida. La mayoría de las personas todavía deberían estar explorando muchos temas distintos a los 20.
+
+Puedes hacer cosas en los inicios de tus 20 años que no puede hacer tan bien antes o después, como sumergirse profundamente en proyectos por capricho y viajar súper barato sin la sensación de una fecha límite. Para las personas poco ambiciosas, este tipo de cosas es el temido "fallo de lanzamiento", pero para las ambiciosas puede ser un tipo de exploración incomparablemente valiosa. Si comienzas una startup a los 20 años y eres lo suficientemente exitoso, nunca podrás hacer esta exploración. \[ 7 ]
+
+Mark Zuckerberg nunca podrá holgazanear en un país extranjero. Puede hacer otras cosas que la mayoría de la gente no puede hacer, como volar en aviones chárter para llevarlo a países extranjeros. Pero el éxito le ha quitado gran parte de la casualidad a su vida. Facebook lo está manejando a él tanto como él maneja a Facebook. Y si bien puede ser muy bueno estar bajo el control de un proyecto que consideras el trabajo de tu vida, también hay ventajas para la casualidad, especialmente al principio de la vida. Entre otras cosas, te brinda más opciones para elegir el trabajo de tu vida.
+
+Ni siquiera hay un tradeoff aquí. No estás sacrificando nada si renuncias a iniciar una startup a los 20, porque es más probable que tengas éxito si esperas. En el improbable caso de que tenga 20 años y uno de tus proyectos paralelos despegue como lo hizo Facebook, enfrentará la opción de seguir adelante con él o no, y puede ser razonable seguir adelante. Pero la forma habitual en que las nuevas empresas despegan es cuando los fundadores las hacen despegar, y es estúpidamente gratuito hacerlo a los 20.
+
+## Intenta
+
+¿Deberías hacerlo a cualquier edad? Me doy cuenta de que he hecho que las startups parezcan bastante difíciles. Si no lo he hecho, déjame intentarlo de nuevo: comenzar una startup es realmente difícil. ¿Qué pasa si es demasiado difícil? ¿Cómo puedes saber si estás preparado para este desafío?
+
+La respuesta es el quinto punto contraintuitivo: no puedes saber. Tu vida hasta ahora puede haberte dado algunas pistas sobre cómo te iría si intentas convertirte en un matemático o un jugador de fútbol profesional. Pero a menos que hayas tenido una vida muy extraña, no has hecho muchas cosas como para saber cómo ser un fundador de startups. Comenzar una startup te cambiará mucho. Entonces, lo que estás tratando de estimar no es solo lo que eres, sino que también en qué te podrías convertir, ¿y quién puede hacer eso?
+
+Durante los últimos 9 años, mi trabajo fue predecir si las personas tienen lo necesario para iniciar nuevas empresas exitosas. Era fácil saber cuán inteligentes eran, y la mayoría de las personas que lean esto superarán ese umbral. La parte difícil fue predecir qué tan resistentes y ambiciosos se volverían. Puede que no haya nadie que tenga más experiencia en tratar de predecir eso, por lo que puedo decirle cuánto puede saber un experto al respecto, y la respuesta es: no mucho. Aprendí a mantener una mente completamente abierta sobre cuáles de las nuevas empresas en cada generación de Y Combinator serían las estrellas.
+
+Los fundadores a veces piensan que saben. Algunos llegan sintiéndose seguros de que superarán Y Combinator igual como han superado todas las pruebas (pocas, artificiales, fáciles) que han enfrentado en la vida hasta ahora. Otros llegan preguntándose cómo entraron, y esperando que YC no descubra el error que causó su aceptación. Pero hay poca correlación entre las actitudes iniciales de los fundadores y lo bien que les va a sus empresas.
+
+He leído que lo mismo es cierto en el ejército: que los reclutas fanfarrones no son más propensos a ser más duros que los callados. Y probablemente por la misma razón: que las pruebas involucradas son muy diferentes de las de sus vidas anteriores.
+
+Si estás absolutamente aterrorizado de comenzar una startup, probablemente no deberías hacerlo. Pero si simplemente no estás seguro de si puede hacerlo, la única forma de averiguarlo es intentarlo. Solo que no ahora.
+
+## Ideas
+
+Entonces, si quieres comenzar una startup un día, ¿qué debes hacer en la universidad? Inicialmente, solo necesita dos cosas: una idea y cofundadores. Y el modo de obtener ambos es el mismo. Lo que lleva a nuestro sexto y último punto contraintuitivo: que la forma de obtener ideas de startup es no tratar de pensar en ideas de startup.
+
+He escrito un ensayo completo sobre esto, así que no lo repetiré todo aquí. Pero la versión corta es que si haces un esfuerzo consciente para pensar en ideas startups, las ideas que se te ocurran no solo serán malas, sino que serán malas y sonarán plausibles, lo que significa que perderás mucho tiempo en ellas antes de darte cuenta de que son malas.
+
+La forma de encontrar buenas ideas de startups es dar un paso atrás. En lugar de hacer un esfuerzo consciente para pensar en ideas de startups, convierte tu mente en una en que se forman las ideas de startup sin ningún esfuerzo consciente. De hecho, tan inconscientemente que ni siquiera te das cuenta al principio de que son ideas de startup.
+
+Esto no solo es posible, es cómo Apple, Yahoo, Google y Facebook comenzaron. Ninguna de estas empresas estaba destinada a ser empresas al principio. Todos fueron solo proyectos paralelos. Las mejores nuevas empresas casi siempre empiezan como proyectos paralelos, porque las grandes ideas tienden a ser tan atípicas que su mente consciente las rechaza como ideas de startup.
+
+Ok, entonces, ¿cómo conviertes tu mente en una en que las ideas de startups se forman inconscientemente? (1) Aprende mucho sobre las cosas que importan, luego (2) trabaja en los problemas que te interesan (3) con las personas que te gustan y respetan. La tercera parte, por cierto, es cómo se obtienen cofundadores al mismo tiempo que la idea.
+
+La primera vez que escribí ese párrafo, en lugar de "aprender mucho sobre las cosas que importan", escribí "hazte bueno con alguna tecnología". Pero esa prescripción, aunque suficiente, es demasiado limitada. Lo especial de Brian Chesky y Joe Gebbia (Airbnb) no era que fueran expertos en tecnología. Eran buenos en el diseño, y quizás aún más importante, eran buenos en la organización de grupos y en la realización de proyectos. Por lo tanto, no tienes que trabajar en tecnología per se, siempre y cuando trabajes en problemas que sean lo suficientemente exigentes como para exigirte.
+
+¿Qué tipo de problemas son esos? Eso es muy difícil de responder en el caso general. La historia está llena de ejemplos de jóvenes que estaban trabajando en problemas importantes que nadie más pensaba que eran importantes, y en particular que sus padres no pensaban que fueran importantes. Por otro lado, la historia está aún más llena de ejemplos de padres que pensaban que sus hijos estaban perdiendo el tiempo y que tenían razón. Entonces, ¿cómo sabes cuándo estás trabajando en cosas reales? \[ 8 ]
+
+Sé cómo *yo* lo sé. Los problemas reales son interesantes, y soy permisivo conmigo mismo en el sentido de que siempre quiero trabajar en cosas interesantes, incluso si a nadie más le importan (de hecho, especialmente si a nadie más le importan), y encuentro muy difícil trabajar en cosas aburridas, incluso si se supone que son importantes.
+
+Mi vida está llena de casos en los que trabajé en algo solo porque me pareció interesante y luego resultó ser útil de alguna manera mundana. Y Combinator en sí fue algo que solo hice porque me pareció interesante. Así que parece que tengo algún tipo de brújula interna que me ayuda. Pero no sé lo que otras personas tienen en sus cabezas. Tal vez si pienso más en esto, puedo proponer heurísticas para reconocer problemas genuinamente interesantes, pero por el momento lo mejor que puedo ofrecer es el consejo de que si te gustan los problemas genuinamente interesantes, seguir ese interés es la mejor manera de prepararse para una startup. Y de hecho, probablemente también la mejor forma de vivir. \[ 9 ]
+
+Pero aunque no puedo explicar en el caso general lo que cuenta como un problema interesante, puedo contarte sobre un gran subconjunto de ellos. Si piensas en la tecnología como algo que se está extendiendo como una especie de mancha fractal, cada punto móvil en el borde representa un problema interesante. Por lo tanto, una forma garantizada de convertir tu mente en el tipo que tiene buenas ideas de startup es estar a la vanguardia de alguna tecnología para obligarte, como lo expresó Paul Buchheit, a "vivir en el futuro". Cuando llegues a ese punto, las ideas que le parecerán a otras personas extraordinariamente lejanas, a tí te parecerán obvias. Puede que no te des cuenta de que son ideas de startup, pero sabrás que son algo que debería existir.
+
+Por ejemplo, en Harvard, a mediados de los 90, un compañero de estudios de posgrado de mis amigos Robert y Trevor escribió su propio software de voz en IP software. No quiso que fuera una startup, y nunca trató de convertirla en una. Solo quería hablar con su novia en Taiwán sin pagar llamadas de larga distancia, y como era un experto en redes, le parecía obvio que la forma de hacerlo era convertir el sonido en paquetes y enviarlo por Internet. Nunca hizo más con su software que hablar con su novia, pero esta es exactamente la forma en que las mejores nuevas empresas empiezan.
+
+Por extraño que parezca, lo óptimo para hacer en la universidad si quieres ser un fundador exitoso no es una especie de nueva versión de la universidad centrada en el "emprendimiento". Es la versión clásica de la universidad como educación por sí misma. Si quieres comenzar una startup después de la universidad, lo que debes hacer en la universidad es aprender cosas poderosas. Y si tienes una curiosidad intelectual genuina, eso es lo que naturalmente tenderás a hacer si sigues tus propias inclinaciones. \[ 10 ]
+
+El componente de emprendimiento que realmente importa es la experiencia en el dominio. La forma de convertirse en Larry Page era convertirse en un experto en búsqueda. Y la forma de convertirse en un experto en búsqueda era impulsada por una curiosidad genuina, no por un motivo oculto.
+
+En el mejor de los casos, comenzar una startup es simplemente un motivo oculto para la curiosidad. Y lo harás mejor si introduces el motivo oculto hacia el final del proceso.
+
+Así que aquí está el último consejo para los jóvenes fundadores de startups, resumido en dos palabras: solo aprende.
+
+#### Notas
+
+\[ 1 ] Algunos fundadores escuchan más que otros, y esto tiende a predecir el éxito. Una de las cosas que recuerdo de los Airbnbs durante YC es cuán atentamente escucharon.
+
+\[ 2 ] De hecho, esta es una de las razones por las cuales las startups son posibles. Si las grandes empresas no estuvieran plagadas de ineficiencias internas, serían proporcionalmente más efectivas, dejando menos espacio para las nuevas empresas.
+
+\[ 3] En una startup tienes que pasar mucho tiempo en tareas tediosas, pero este tipo de trabajo es simplemente poco glamoroso, no falso.
+
+\[ 4 ] ¿Qué debes hacer si tu verdadera pasión es engañar con el sistema? Consultoría.
+
+\[ 5 ] Es posible que la empresa no se incorpore, pero si comienzas a obtener un número significativo de usuarios, la has comenzado, ya sea que te des cuenta o no.
+
+\[ 6 ] No debería ser tan sorprendente que las universidades no puedan enseñar a los estudiantes cómo ser buenos fundadores de startups, porque tampoco pueden enseñarles cómo ser buenos empleados.
+
+La forma en que las universidades "enseñan" a los estudiantes cómo ser empleados es pasar la tarea a las empresas a través de programas de pasantías. Pero no se podía hacer lo mismo para las startups, porque, por definición, si a los estudiantes les iba bien, nunca volverían.
+
+\[ 7 ] Charles Darwin tenía 22 años cuando recibió una invitación para viajar a bordo del HMS Beagle como naturalista. Fue solo porque estaba desocupado, en un grado que alarmó a su familia, que pudo aceptarlo. Y sin embargo, si no lo hubiera hecho, probablemente no sabríamos su nombre.
+
+\[ 8 ] Los padres a veces pueden ser especialmente conservadores en este tema. Hay algunos cuya definición de problemas importantes incluye solo aquellos en el camino crítico hacia la escuela de medicina.
+
+\[ 9] Me las arreglé para pensar en una heurística para detectar si te gustan las ideas interesantes: si las ideas aburridas conocidas son intolerables. ¿Podrías soportar estudiar teoría literaria o trabajar en mandos intermedios en una gran empresa?
+
+\[ 10 ] De hecho, si tu objetivo es iniciar una startup, puedes apegarte aún más al ideal de una educación liberal que las generaciones pasadas. Cuando los estudiantes se centraron principalmente en conseguir un trabajo después de la universidad, pensaron al menos un poco en cómo los cursos que tomarían podrían ser para un empleador. Y tal vez aún peor, podrían evitar tomar una clase difícil para no obtener una calificación baja, lo que dañaría su GPA tan importante. Buenas noticias: a los usuarios no les importa cuál fue tu promedio de calificaciones. Y nunca he oído hablar de inversores preocupados tampoco. Y Combinator ciertamente nunca pregunta qué clases tomó en la universidad o qué calificaciones obtuvo en ellas.
+
+Gracias a Sam Altman, Paul Buchheit, John Collison, Patrick Collison, Jessica Livingston, Robert Morris, Geoff Ralston y Fred Wilson por leer borradores de esto.
