@@ -91,3 +91,11 @@ h1 {
   flex: 1;
 }
 
+.toc-entry {
+  list-style-type: none;
+  margin: 5px 0;
+
+  & a {
+    color: gray;
+  }
+}
