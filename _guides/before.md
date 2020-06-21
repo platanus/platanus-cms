@@ -2,7 +2,13 @@
 layout: post
 title: Antes de la startup
 subtitle: Traducción de ensayo "Before the startup" de Paul Graham.
+image: before.png
 ---
+
+Fuente: [http://paulgraham.com/before.html](http://paulgraham.com/before.html).
+
+Autor: Paul Graham
+
 *(Este ensayo se deriva de una sesión en la clase "How to start a startup" de Sam Altman en Stanford. Está destinada a estudiantes universitarios, pero gran parte aplica a posibles fundadores de otras edades).*
 
 Una de las ventajas de tener hijos es que cuando tienes que dar consejos, puedes preguntarte "¿qué les diría a mis propios hijos?" Mis hijos son pequeños, pero puedo imaginar qué les diría sobre startups si estuvieran en la universidad, y eso es lo que te voy a contar.

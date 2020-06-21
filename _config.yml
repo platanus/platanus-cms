@@ -47,6 +47,9 @@ feed:
     - posts
     - guides
 
+plugins:
+  - jekyll-toc
+
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll

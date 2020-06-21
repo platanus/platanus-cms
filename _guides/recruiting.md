@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Guía reclutamiento
+title: Guía de reclutamiento
 subtitle: Contratar siendo una startup es muy difícil.
 categories: guide,recruiting
+image: recruiting.png
+toc: true
 ---
-
-* TOC
-{:toc}
 
 # 1. ¿Por qué esta guía?
 

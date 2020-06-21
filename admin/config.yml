@@ -16,8 +16,6 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Title", name: "title", widget: "string", tagname: "h1"}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Categories", name: "categories", widget: "string", required: false}
-    meta: # Meta data fields. Just like fields, but without any preview element
-      - {label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DD hh:mm:ss"}
   - name: "guide" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Guide" # Used in the UI, ie.: "New Guide"
     folder: "_guides" # The path to the folder where the documents are stored
@@ -30,5 +28,4 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Subtitle", name: "subtitle", widget: "string", tagname: "p"}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Categories", name: "categories", widget: "string", required: false}
-    meta: # Meta data fields. Just like fields, but without any preview element
-      - {label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DD hh:mm:ss"}
+      - {label: "Image", name: "image", widget: "string", required: false}

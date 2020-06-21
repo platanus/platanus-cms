@@ -3,6 +3,7 @@
 
 @import 'minima';
 
+$break-large: 900px;
 
 .post-title {
   margin: 10px 0;
@@ -31,5 +32,13 @@ h1 {
 
   &__image {
     height: 50px;
+  }
+}
+
+.home {
+  &__main-image {
+    display: block;
+    height: 300px;
+    margin: auto;
   }
 }
