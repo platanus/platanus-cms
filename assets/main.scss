@@ -3,7 +3,7 @@
 
 @import 'minima';
 
-$break-large: 900px;
+$break-large: 1100px;
 
 .post-title {
   margin: 10px 0;
@@ -38,7 +38,56 @@ h1 {
 .home {
   &__main-image {
     display: block;
-    height: 300px;
+    max-height: 300px;
     margin: auto;
   }
 }
+
+.content-wrapper {
+  display: flex;
+  flex-direction: column;
+
+  &--with-toc {
+    margin: auto;
+  }
+
+  @media (min-width: $break-large) {
+    flex-direction: row;
+  }
+}
+
+.content-toc {
+  flex: 1;
+
+  &--big {
+    @media (max-width: $break-large) {
+      display: none;
+    }
+  }
+
+  &--small {
+    @media (min-width: $break-large) {
+      display: none;
+    }
+  }
+
+  &__nav {
+    @media (min-width: $break-large) {
+      float: right;
+      margin-right: 100px;
+    }
+  }
+}
+
+.post-content-text {
+  flex: 1;
+}
+
+.content-right {
+  @media (max-width: $break-large) {
+    display: none;
+  }
+
+  flex: 1;
+}
+

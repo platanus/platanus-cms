@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: guide
 title: Guía de reclutamiento
 subtitle: Contratar siendo una startup es muy difícil.
 categories: guide,recruiting
