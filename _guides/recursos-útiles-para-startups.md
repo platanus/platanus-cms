@@ -3,6 +3,7 @@ layout: post
 title: Recursos útiles para startups
 subtitle: El material que hemos ido recopilando a lo largo de los años. Lo
   actualizamos constantemente.
+image: library.png
 ---
 - [Startup School de YC](https://www.startupschool.org/latest). Tiene un montón de recursos útiles para todos los procesos de una startup
 - [How to plan an MVP](https://www.youtube.com/watch?v=1hHMwLxN6EM&t=1228s). Antes de un proyecto o startup con una idea que quiere saber qué desarrollar primero y cómo
