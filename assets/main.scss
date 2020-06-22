@@ -93,9 +93,15 @@ h1 {
 
 .toc-entry {
   list-style-type: none;
-  margin: 5px 0;
 
   & a {
+    @media (min-width: $break-large) {
+      font-size: 14px;
+    }
+
+    @media (max-width: $break-large) {
+      font-size: 16px;
+    }
     color: gray;
   }
 }
